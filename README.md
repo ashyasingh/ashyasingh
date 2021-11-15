@@ -1,5 +1,5 @@
 ## Hi there
-My name is Ashya Singh. I am a senior at Boston University studying Computer Science. I am using GitHub for my classes and personal projects. Languages I am working with currently are Python, Java, Javascript, HTML, and CSS.
+My name is Ashya Singh. I am a senior at Boston University studying Computer Science. I am using GitHub for my classes and personal projects. I am working with on projects involving Python, Java, MEAN Stack (MongoDB, Express.js, Angular.js, Node.js), and CSS.
 
 <!--
 **ashyasingh/ashyasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
