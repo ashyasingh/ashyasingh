@@ -1,28 +1,6 @@
 ## Hi there
-My name is Ashya Singh. I am a senior at Boston University studying Computer Science. I am using GitHub for my classes and personal projects. 
-I am working on projects involving Python and MEAN Stack.
+My name is Ashya Singh. I work as a Product Manager at Microsoft. 
 
-Relevant Courses I have taken:
+I am a Feature PM for Microsoft Entra Permissions Management, a cloud infrastructure entitlement management (CIEM) solution that provides comprehensive visibility into permissions assigned to all identities (human and workload), actions, and resources across multi-cloud infrastructures. It detects, right-sizes, and monitors unused and excessive permissions and enables Zero Trust security through least privilege access in Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP). 
 
-Computer Science
-- CS506: Computational Tools for Data Science
-- CS412: MEAN Development
-- CS411: Software Engineering
-- CS410: Advanced Software Systems
-- CS365: Foundations of Data Science
-- CS350: Fundamentals of Computing Systems
-- CS330: Introduction to Analysis of Algorithms
-- CS320: Concepts of Programming Languages
-- CS237: Probability in Computing
-- CS210: Computer Systems
-- CS132: Geometric Algorithms
-- CS131: Combinatoric Structions
-- CS112: Introduction to Computer Science II
-- CS111: Introduction to Computer Science I
-
-Mathematics
-- CAS MA416: Analysis of Variance
-- QST BA476: Machine Learning for Business Analytics
-- CDS DS482: Responsibly AI, Law, Ethics, & Society
-- CAS MA116: Statistics II
-- CAS MA115: Statistics I
+I have a degree in Computer Science from Boston University.
